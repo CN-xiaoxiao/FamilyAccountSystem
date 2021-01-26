@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FamilyAccountSystem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FamilyAccountSystem_jar</output-path>
+    <root id="archive" name="FamilyAccountSystem.jar">
+      <element id="module-output" name="FamilyAccountSystem" />
+    </root>
+  </artifact>
+</component>
